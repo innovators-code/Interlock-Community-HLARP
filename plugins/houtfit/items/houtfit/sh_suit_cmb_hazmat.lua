@@ -1,0 +1,22 @@
+ITEM.name = "Combine Hazmat Suit"
+ITEM.description = "A hazmat suit that is made for the Combine Overwatch Transhuman Soldiers."
+ITEM.category = "Clothing"
+ITEM.model = "models/mosi/fallout4/props/fortifications/woodencrate02.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.replacement = "models/hla/combine/combine_hla_soldier.mdl"
+ITEM.outfitCategory = "suit"
+ITEM.bodyGroups = {
+    ["Head"] = 1,
+    ["Headset"] = 1,
+    ["HelmetDecal"] = 1,
+    ["Helmetfilters"] = 3,
+    ["Rig"] = 2,
+    ["Backpack"] = 2,
+    ["Shoulderpads"] = 2,
+    ["Elbowpads"] = 0,
+    ["Handstraps"] = 1,
+    ["Beltgear"] = 2,
+    ["Legstraps"] = 2,
+    ["Kneepads"] = 1,
+}

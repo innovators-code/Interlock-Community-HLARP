@@ -1,0 +1,9 @@
+ITEM.name = "UEC Engineer Worker Safety Suit"
+ITEM.description = "A worker suit that is made for Engineers to use."
+ITEM.category = "Clothing"
+ITEM.model = "models/mosi/fallout4/props/fortifications/woodencrate02.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.replacement = "models/hlvr/characters/worker/npc/worker_citizen.mdl"
+ITEM.outfitCategory = "suit"
+ITEM.gasImmunity = true

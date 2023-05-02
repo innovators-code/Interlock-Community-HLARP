@@ -1,0 +1,10 @@
+ITEM.name = "Spec-Ops Resistance Kevlar Suit"
+ITEM.description = "A full Resistance uniform in Spec-Ops camouflage, it is designed with the best quality materials for the reasonable protection in combat."
+ITEM.category = "Clothing"
+ITEM.model = "models/rig_mmac/rig_mmac.mdl"
+ITEM.width = 2
+ITEM.height = 2
+ITEM.maxArmor = 100
+ITEM.replacement = "models/interlock/rebel_specops.mdl"
+ITEM.outfitCategory = "suit"
+ITEM.gasImmunity = true
